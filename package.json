@@ -1,0 +1,22 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Proyecto Quiz 2018",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Quiz",
+    "Core",
+    "node",
+    "2018"
+  ],
+  "author": "Julian Castro Turga",
+  "license": "Unlicense",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "figlet": "^1.2.0"
+  }
+}
