@@ -13,7 +13,7 @@
     "node",
     "2018"
   ],
-  "author": "Julian Castro Turga",
+  "author": "Garbriel Toro Retivoff",
   "license": "Unlicense",
   "dependencies": {
     "chalk": "^2.3.2",

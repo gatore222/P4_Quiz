@@ -74,7 +74,7 @@ rl.on('line', (line) => {
 
     case 'credits':
     console.log('Autor de la practica.');
-    console.log('JULIAN CASTRO TURGA');
+    console.log('Gabriel Toro Retivoff');
     rl.prompt();
     break;
 
@@ -84,9 +84,9 @@ rl.on('line', (line) => {
       rl.prompt();
       break;      
   }
-  
+   
 }).on('close', () => {
-  console.log('Juego cerrado,Adios!');
+  console.log('Finito! Adios!');
   process.exit(0);
 });
 
